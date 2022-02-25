@@ -15,7 +15,7 @@ header ('Last-Modified: '.gmdate('D, d M Y H:i:s').' GMT');
 header ('Cache-Control: cache, must-revalidate');
 header ('Pragma: public');
 include_once "connect.php";
-include "niceform.php";
+// include "niceform.php";
 include_once ("function.php");
 // $tanggal=date("d-M-Y");
 $bulan1 = $_POST['bln1'];
