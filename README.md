@@ -1,4 +1,4 @@
 # s1h4
-export data ARK VL
-semua file simpan di direktori utama
-bisa ada update sewaktu waktu
+1. export data ARK VL
+2. semua file simpan di direktori utama
+3. bisa ada update sewaktu waktu
